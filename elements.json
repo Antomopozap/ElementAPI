@@ -1,10 +1,828 @@
 {
-  "elementId": {
-    "Name": "Element Name",
-    "ElementFoto": "foto of element",
-    "Discover": "Mf who descovered it",
-    "DiscoverFoto": "foto of the mf who descovered it",
-    "Aplications": "What is it used for",
-    "Economy": "idk"
+  "element1": {
+    "Name": "",
+    "Ephoto": "",
+    "Discover": "",
+    "Aplications": "",
+    "Economy": ""
+  },
+  "element2": {
+    "Name": "",
+    "Ephoto": "",
+    "Discover": "",
+    "Aplications": "",
+    "Economy": ""
+  },
+  "element3": {
+    "Name": "",
+    "Ephoto": "",
+    "Discover": "",
+    "Aplications": "",
+    "Economy": ""
+  },
+  "element4": {
+    "Name": "",
+    "Ephoto": "",
+    "Discover": "",
+    "Aplications": "",
+    "Economy": ""
+  },
+  "element5": {
+    "Name": "",
+    "Ephoto": "",
+    "Discover": "",
+    "Aplications": "",
+    "Economy": ""
+  },
+  "element6": {
+    "Name": "",
+    "Ephoto": "",
+    "Discover": "",
+    "Aplications": "",
+    "Economy": ""
+  },
+  "element7": {
+    "Name": "",
+    "Ephoto": "",
+    "Discover": "",
+    "Aplications": "",
+    "Economy": ""
+  },
+  "element8": {
+    "Name": "",
+    "Ephoto": "",
+    "Discover": "",
+    "Aplications": "",
+    "Economy": ""
+  },
+  "element9": {
+    "Name": "",
+    "Ephoto": "",
+    "Discover": "",
+    "Aplications": "",
+    "Economy": ""
+  },
+  "element10": {
+    "Name": "",
+    "Ephoto": "",
+    "Discover": "",
+    "Aplications": "",
+    "Economy": ""
+  },
+  "element11": {
+    "Name": "",
+    "Ephoto": "",
+    "Discover": "",
+    "Aplications": "",
+    "Economy": ""
+  },
+  "element12": {
+    "Name": "",
+    "Ephoto": "",
+    "Discover": "",
+    "Aplications": "",
+    "Economy": ""
+  },
+  "element13": {
+    "Name": "",
+    "Ephoto": "",
+    "Discover": "",
+    "Aplications": "",
+    "Economy": ""
+  },
+  "element14": {
+    "Name": "",
+    "Ephoto": "",
+    "Discover": "",
+    "Aplications": "",
+    "Economy": ""
+  },
+  "element15": {
+    "Name": "",
+    "Ephoto": "",
+    "Discover": "",
+    "Aplications": "",
+    "Economy": ""
+  },
+  "element16": {
+    "Name": "",
+    "Ephoto": "",
+    "Discover": "",
+    "Aplications": "",
+    "Economy": ""
+  },
+  "element17": {
+    "Name": "",
+    "Ephoto": "",
+    "Discover": "",
+    "Aplications": "",
+    "Economy": ""
+  },
+  "element18": {
+    "Name": "",
+    "Ephoto": "",
+    "Discover": "",
+    "Aplications": "",
+    "Economy": ""
+  },
+  "element19": {
+    "Name": "",
+    "Ephoto": "",
+    "Discover": "",
+    "Aplications": "",
+    "Economy": ""
+  },
+  "element20": {
+    "Name": "",
+    "Ephoto": "",
+    "Discover": "",
+    "Aplications": "",
+    "Economy": ""
+  },
+  "element21": {
+    "Name": "",
+    "Ephoto": "",
+    "Discover": "",
+    "Aplications": "",
+    "Economy": ""
+  },
+  "element22": {
+    "Name": "",
+    "Ephoto": "",
+    "Discover": "",
+    "Aplications": "",
+    "Economy": ""
+  },
+  "element23": {
+    "Name": "",
+    "Ephoto": "",
+    "Discover": "",
+    "Aplications": "",
+    "Economy": ""
+  },
+  "element24": {
+    "Name": "",
+    "Ephoto": "",
+    "Discover": "",
+    "Aplications": "",
+    "Economy": ""
+  },
+  "element25": {
+    "Name": "",
+    "Ephoto": "",
+    "Discover": "",
+    "Aplications": "",
+    "Economy": ""
+  },
+  "element26": {
+    "Name": "",
+    "Ephoto": "",
+    "Discover": "",
+    "Aplications": "",
+    "Economy": ""
+  },
+  "element27": {
+    "Name": "",
+    "Ephoto": "",
+    "Discover": "",
+    "Aplications": "",
+    "Economy": ""
+  },
+  "element28": {
+    "Name": "",
+    "Ephoto": "",
+    "Discover": "",
+    "Aplications": "",
+    "Economy": ""
+  },
+  "element29": {
+    "Name": "",
+    "Ephoto": "",
+    "Discover": "",
+    "Aplications": "",
+    "Economy": ""
+  },
+  "element30": {
+    "Name": "",
+    "Ephoto": "",
+    "Discover": "",
+    "Aplications": "",
+    "Economy": ""
+  },
+  "element31": {
+    "Name": "",
+    "Ephoto": "",
+    "Discover": "",
+    "Aplications": "",
+    "Economy": ""
+  },
+  "element32": {
+    "Name": "",
+    "Ephoto": "",
+    "Discover": "",
+    "Aplications": "",
+    "Economy": ""
+  },
+  "element33": {
+    "Name": "",
+    "Ephoto": "",
+    "Discover": "",
+    "Aplications": "",
+    "Economy": ""
+  },
+  "element34": {
+    "Name": "",
+    "Ephoto": "",
+    "Discover": "",
+    "Aplications": "",
+    "Economy": ""
+  },
+  "element35": {
+    "Name": "",
+    "Ephoto": "",
+    "Discover": "",
+    "Aplications": "",
+    "Economy": ""
+  },
+  "element36": {
+    "Name": "",
+    "Ephoto": "",
+    "Discover": "",
+    "Aplications": "",
+    "Economy": ""
+  },
+  "element37": {
+    "Name": "",
+    "Ephoto": "",
+    "Discover": "",
+    "Aplications": "",
+    "Economy": ""
+  },
+  "element38": {
+    "Name": "",
+    "Ephoto": "",
+    "Discover": "",
+    "Aplications": "",
+    "Economy": ""
+  },
+  "element39": {
+    "Name": "",
+    "Ephoto": "",
+    "Discover": "",
+    "Aplications": "",
+    "Economy": ""
+  },
+  "element40": {
+    "Name": "",
+    "Ephoto": "",
+    "Discover": "",
+    "Aplications": "",
+    "Economy": ""
+  },
+  "element41": {
+    "Name": "",
+    "Ephoto": "",
+    "Discover": "",
+    "Aplications": "",
+    "Economy": ""
+  },
+  "element42": {
+    "Name": "",
+    "Ephoto": "",
+    "Discover": "",
+    "Aplications": "",
+    "Economy": ""
+  },
+  "element43": {
+    "Name": "",
+    "Ephoto": "",
+    "Discover": "",
+    "Aplications": "",
+    "Economy": ""
+  },
+  "element44": {
+    "Name": "",
+    "Ephoto": "",
+    "Discover": "",
+    "Aplications": "",
+    "Economy": ""
+  },
+  "element45": {
+    "Name": "",
+    "Ephoto": "",
+    "Discover": "",
+    "Aplications": "",
+    "Economy": ""
+  },
+  "element46": {
+    "Name": "",
+    "Ephoto": "",
+    "Discover": "",
+    "Aplications": "",
+    "Economy": ""
+  },
+  "element47": {
+    "Name": "",
+    "Ephoto": "",
+    "Discover": "",
+    "Aplications": "",
+    "Economy": ""
+  },
+  "element48": {
+    "Name": "",
+    "Ephoto": "",
+    "Discover": "",
+    "Aplications": "",
+    "Economy": ""
+  },
+  "element49": {
+    "Name": "",
+    "Ephoto": "",
+    "Discover": "",
+    "Aplications": "",
+    "Economy": ""
+  },
+  "element50": {
+    "Name": "",
+    "Ephoto": "",
+    "Discover": "",
+    "Aplications": "",
+    "Economy": ""
+  },
+  "element51": {
+    "Name": "",
+    "Ephoto": "",
+    "Discover": "",
+    "Aplications": "",
+    "Economy": ""
+  },
+  "element52": {
+    "Name": "",
+    "Ephoto": "",
+    "Discover": "",
+    "Aplications": "",
+    "Economy": ""
+  },
+  "element53": {
+    "Name": "",
+    "Ephoto": "",
+    "Discover": "",
+    "Aplications": "",
+    "Economy": ""
+  },
+  "element54": {
+    "Name": "",
+    "Ephoto": "",
+    "Discover": "",
+    "Aplications": "",
+    "Economy": ""
+  },
+  "element55": {
+    "Name": "",
+    "Ephoto": "",
+    "Discover": "",
+    "Aplications": "",
+    "Economy": ""
+  },
+  "element56": {
+    "Name": "",
+    "Ephoto": "",
+    "Discover": "",
+    "Aplications": "",
+    "Economy": ""
+  },
+  "element57": {
+    "Name": "",
+    "Ephoto": "",
+    "Discover": "",
+    "Aplications": "",
+    "Economy": ""
+  },
+  "element58": {
+    "Name": "",
+    "Ephoto": "",
+    "Discover": "",
+    "Aplications": "",
+    "Economy": ""
+  },
+  "element59": {
+    "Name": "",
+    "Ephoto": "",
+    "Discover": "",
+    "Aplications": "",
+    "Economy": ""
+  },
+  "element60": {
+    "Name": "",
+    "Ephoto": "",
+    "Discover": "",
+    "Aplications": "",
+    "Economy": ""
+  },
+  "element61": {
+    "Name": "",
+    "Ephoto": "",
+    "Discover": "",
+    "Aplications": "",
+    "Economy": ""
+  },
+  "element62": {
+    "Name": "",
+    "Ephoto": "",
+    "Discover": "",
+    "Aplications": "",
+    "Economy": ""
+  },
+  "element63": {
+    "Name": "",
+    "Ephoto": "",
+    "Discover": "",
+    "Aplications": "",
+    "Economy": ""
+  },
+  "element64": {
+    "Name": "",
+    "Ephoto": "",
+    "Discover": "",
+    "Aplications": "",
+    "Economy": ""
+  },
+  "element65": {
+    "Name": "",
+    "Ephoto": "",
+    "Discover": "",
+    "Aplications": "",
+    "Economy": ""
+  },
+  "element66": {
+    "Name": "",
+    "Ephoto": "",
+    "Discover": "",
+    "Aplications": "",
+    "Economy": ""
+  },
+  "element67": {
+    "Name": "",
+    "Ephoto": "",
+    "Discover": "",
+    "Aplications": "",
+    "Economy": ""
+  },
+  "element68": {
+    "Name": "",
+    "Ephoto": "",
+    "Discover": "",
+    "Aplications": "",
+    "Economy": ""
+  },
+  "element69": {
+    "Name": "",
+    "Ephoto": "",
+    "Discover": "",
+    "Aplications": "",
+    "Economy": ""
+  },
+  "element70": {
+    "Name": "",
+    "Ephoto": "",
+    "Discover": "",
+    "Aplications": "",
+    "Economy": ""
+  },
+  "element71": {
+    "Name": "",
+    "Ephoto": "",
+    "Discover": "",
+    "Aplications": "",
+    "Economy": ""
+  },
+  "element72": {
+    "Name": "",
+    "Ephoto": "",
+    "Discover": "",
+    "Aplications": "",
+    "Economy": ""
+  },
+  "element73": {
+    "Name": "",
+    "Ephoto": "",
+    "Discover": "",
+    "Aplications": "",
+    "Economy": ""
+  },
+  "element74": {
+    "Name": "",
+    "Ephoto": "",
+    "Discover": "",
+    "Aplications": "",
+    "Economy": ""
+  },
+  "element75": {
+    "Name": "",
+    "Ephoto": "",
+    "Discover": "",
+    "Aplications": "",
+    "Economy": ""
+  },
+  "element76": {
+    "Name": "",
+    "Ephoto": "",
+    "Discover": "",
+    "Aplications": "",
+    "Economy": ""
+  },
+  "element77": {
+    "Name": "",
+    "Ephoto": "",
+    "Discover": "",
+    "Aplications": "",
+    "Economy": ""
+  },
+  "element78": {
+    "Name": "",
+    "Ephoto": "",
+    "Discover": "",
+    "Aplications": "",
+    "Economy": ""
+  },
+  "element79": {
+    "Name": "",
+    "Ephoto": "",
+    "Discover": "",
+    "Aplications": "",
+    "Economy": ""
+  },
+  "element80": {
+    "Name": "",
+    "Ephoto": "",
+    "Discover": "",
+    "Aplications": "",
+    "Economy": ""
+  },
+  "element81": {
+    "Name": "",
+    "Ephoto": "",
+    "Discover": "",
+    "Aplications": "",
+    "Economy": ""
+  },
+  "element82": {
+    "Name": "",
+    "Ephoto": "",
+    "Discover": "",
+    "Aplications": "",
+    "Economy": ""
+  },
+  "element83": {
+    "Name": "",
+    "Ephoto": "",
+    "Discover": "",
+    "Aplications": "",
+    "Economy": ""
+  },
+  "element84": {
+    "Name": "",
+    "Ephoto": "",
+    "Discover": "",
+    "Aplications": "",
+    "Economy": ""
+  },
+  "element85": {
+    "Name": "",
+    "Ephoto": "",
+    "Discover": "",
+    "Aplications": "",
+    "Economy": ""
+  },
+  "element86": {
+    "Name": "",
+    "Ephoto": "",
+    "Discover": "",
+    "Aplications": "",
+    "Economy": ""
+  },
+  "element87": {
+    "Name": "",
+    "Ephoto": "",
+    "Discover": "",
+    "Aplications": "",
+    "Economy": ""
+  },
+  "element88": {
+    "Name": "",
+    "Ephoto": "",
+    "Discover": "",
+    "Aplications": "",
+    "Economy": ""
+  },
+  "element89": {
+    "Name": "",
+    "Ephoto": "",
+    "Discover": "",
+    "Aplications": "",
+    "Economy": ""
+  },
+  "element90": {
+    "Name": "",
+    "Ephoto": "",
+    "Discover": "",
+    "Aplications": "",
+    "Economy": ""
+  },
+  "element91": {
+    "Name": "",
+    "Ephoto": "",
+    "Discover": "",
+    "Aplications": "",
+    "Economy": ""
+  },
+  "element92": {
+    "Name": "",
+    "Ephoto": "",
+    "Discover": "",
+    "Aplications": "",
+    "Economy": ""
+  },
+  "element93": {
+    "Name": "",
+    "Ephoto": "",
+    "Discover": "",
+    "Aplications": "",
+    "Economy": ""
+  },
+  "element94": {
+    "Name": "",
+    "Ephoto": "",
+    "Discover": "",
+    "Aplications": "",
+    "Economy": ""
+  },
+  "element95": {
+    "Name": "",
+    "Ephoto": "",
+    "Discover": "",
+    "Aplications": "",
+    "Economy": ""
+  },
+  "element96": {
+    "Name": "",
+    "Ephoto": "",
+    "Discover": "",
+    "Aplications": "",
+    "Economy": ""
+  },
+  "element97": {
+    "Name": "",
+    "Ephoto": "",
+    "Discover": "",
+    "Aplications": "",
+    "Economy": ""
+  },
+  "element98": {
+    "Name": "",
+    "Ephoto": "",
+    "Discover": "",
+    "Aplications": "",
+    "Economy": ""
+  },
+  "element99": {
+    "Name": "",
+    "Ephoto": "",
+    "Discover": "",
+    "Aplications": "",
+    "Economy": ""
+  },
+  "element100": {
+    "Name": "",
+    "Ephoto": "",
+    "Discover": "",
+    "Aplications": "",
+    "Economy": ""
+  },
+  "element101": {
+    "Name": "",
+    "Ephoto": "",
+    "Discover": "",
+    "Aplications": "",
+    "Economy": ""
+  },
+  "element102": {
+    "Name": "",
+    "Ephoto": "",
+    "Discover": "",
+    "Aplications": "",
+    "Economy": ""
+  },
+  "element103": {
+    "Name": "",
+    "Ephoto": "",
+    "Discover": "",
+    "Aplications": "",
+    "Economy": ""
+  },
+  "element104": {
+    "Name": "",
+    "Ephoto": "",
+    "Discover": "",
+    "Aplications": "",
+    "Economy": ""
+  },
+  "element105": {
+    "Name": "",
+    "Ephoto": "",
+    "Discover": "",
+    "Aplications": "",
+    "Economy": ""
+  },
+  "element106": {
+    "Name": "",
+    "Ephoto": "",
+    "Discover": "",
+    "Aplications": "",
+    "Economy": ""
+  },
+  "element107": {
+    "Name": "",
+    "Ephoto": "",
+    "Discover": "",
+    "Aplications": "",
+    "Economy": ""
+  },
+  "element108": {
+    "Name": "",
+    "Ephoto": "",
+    "Discover": "",
+    "Aplications": "",
+    "Economy": ""
+  },
+  "element109": {
+    "Name": "",
+    "Ephoto": "",
+    "Discover": "",
+    "Aplications": "",
+    "Economy": ""
+  },
+  "element110": {
+    "Name": "",
+    "Ephoto": "",
+    "Discover": "",
+    "Aplications": "",
+    "Economy": ""
+  },
+  "element111": {
+    "Name": "",
+    "Ephoto": "",
+    "Discover": "",
+    "Aplications": "",
+    "Economy": ""
+  },
+  "element112": {
+    "Name": "",
+    "Ephoto": "",
+    "Discover": "",
+    "Aplications": "",
+    "Economy": ""
+  },
+  "element113": {
+    "Name": "",
+    "Ephoto": "",
+    "Discover": "",
+    "Aplications": "",
+    "Economy": ""
+  },
+  "element114": {
+    "Name": "",
+    "Ephoto": "",
+    "Discover": "",
+    "Aplications": "",
+    "Economy": ""
+  },
+  "element115": {
+    "Name": "",
+    "Ephoto": "",
+    "Discover": "",
+    "Aplications": "",
+    "Economy": ""
+  },
+  "element116": {
+    "Name": "",
+    "Ephoto": "",
+    "Discover": "",
+    "Aplications": "",
+    "Economy": ""
+  },
+  "element117": {
+    "Name": "",
+    "Ephoto": "",
+    "Discover": "",
+    "Aplications": "",
+    "Economy": ""
+  },
+  "element118": {
+    "Name": "",
+    "Ephoto": "",
+    "Discover": "",
+    "Aplications": "",
+    "Economy": ""
   }
 }
