@@ -418,12 +418,12 @@
     "info": "El telurio es un element químico de la familia de los metaloides, cuyo símbolo es Te. Fue descubierto en 1782 por Franz-Joseph Müller von Reichenstein y tiene diversas aplicaciones en la industria y la tecnología."
   },
   "element53": {
-    "name": "Tecnecio",
-    "n": 43,
-    "descubierto_por": "Emilio Segrè, Carlo Perrier",
-    "uses": "El tecnesio se utiliza en medicina nuclear para la obtención de imágenes y para tratar ciertos tipos de cáncer. También se utiliza en la detección de grietas en tuberías y en la investigación en química.",
-    "price": "120 USD/g",
-    "info": "El tecnecio es un metal plateado-grisáceo que se encuentra en la naturaleza en pequeñas cantidades. Es el primer element sintético producido en grandes cantidades y se utiliza en una variedad de aplicaciones, desde la medicina nuclear hasta la investigación en química."
+    "name": "Yodo",
+    "n": 53,
+    "discoverer": "Bernard Courtois",
+    "uses": "Desinfectante, aditivo alimentario, tintes, rayos X, farmacéutica",
+    "price": "0.60 USD/g",
+    "info": "El yodo es un halógeno no metálico, sólido y de color negro-azulado en su forma elemental. Es un oligoelement esencial para la vida de los seres humanos y se encuentra en la naturaleza principalmente en el agua de mar y en el suelo."
   },
   "element54": {
     "name": "Xenón",
@@ -431,7 +431,7 @@
     "discoverer": "Sir William Ramsay, Morris Travers",
     "uses": "Producción de lámparas de xenón, láseres, lámparas de destellos, cámaras de ionización, y como anestésico.",
     "price": 5.5,
-    "Qué es": "El xenón es un gas noble incoloro, denso y pesado que se encuentra en la atmósfera terrestre en cantidades extremadamente pequeñas. Es uno de los elements más inertes y estables y se utiliza en diversas aplicaciones, desde la iluminación hasta la medicina y la investigación científica."
+    "info": "El xenón es un gas noble incoloro, denso y pesado que se encuentra en la atmósfera terrestre en cantidades extremadamente pequeñas. Es uno de los elements más inertes y estables y se utiliza en diversas aplicaciones, desde la iluminación hasta la medicina y la investigación científica."
   },
   "element55": {
     "name": "Cesio",
@@ -464,5 +464,485 @@
     "uses": "El cerio se utiliza en la fabricación de catalizadores para convertidores catalíticos de automóviles y en la producción de vidrio óptico y cerámicas.",
     "price": "$0.8 USD por gramo",
     "info": "El cerio es un metal de transición plateado suave que es altamente reactivo y se oxida rápidamente al aire."
+  },
+  "element59": {
+    "name": "Praseodimio",
+    "n": 59,
+    "discoverer": "Carl Auer von Welsbach",
+    "uses": "Componente de aleaciones de magnesio, cerio y neodimio para imanes de alta resistencia, colorantes para vidrio y esmaltes",
+    "price": "12.5 USD por kilogramo",
+    "info": "El praseodimio es un element químico de la serie de los lantánidos. Es un metal blando, plateado y brillante, y se encuentra en algunos minerales de tierras raras."
+  },
+  "element60": {
+    "name": "Neodimio",
+    "n": 60,
+    "discoverer": "Carl Auer von Welsbach",
+    "uses": "Imanes de alta resistencia, lentes de vidrio para cámaras y telescopios, pigmentos para pinturas y tintas",
+    "price": "70 USD por kilogramo",
+    "info": "El neodimio es un metal plateado y brillante que pertenece a la serie de los lantánidos. Es muy reactivo y se oxida rápidamente al aire."
+  },
+  "element61": {
+    "name": "Prometio",
+    "n": 61,
+    "discoverer": "Jacob A. Marinsky, Lawrence E. Glendenin y Charles D. Coryell",
+    "uses": "No tiene aplicaciones comerciales debido a su radiactividad",
+    "price": "No se vende comercialmente",
+    "info": "El prometio es un element radiactivo de la serie de los lantánidos. Es muy raro en la naturaleza y se produce artificialmente a través de reacciones nucleares."
+  },
+  "element62": {
+    "name": "Samario",
+    "n": 62,
+    "discoverer": "Jean Charles Galissard de Marignac",
+    "uses": "Imanes permanentes, cerámicas electrónicas, catalizadores para la producción de hidrógeno",
+    "price": "7.5 USD por kilogramo",
+    "info": "El samario es un metal plateado y brillante que pertenece a la serie de los lantánidos. Es blando y dúctil, y se encuentra en algunos minerales de tierras raras."
+  },
+  "element63": {
+    "name": "Europio",
+    "n": 63,
+    "discoverer": "Eugène-Anatole Demarçay",
+    "uses": "Colorante para lámparas fluorescentes y televisores de pantalla plana, dopante para materiales semiconductores, materiales luminiscentes",
+    "price": "480 USD por kilogramo",
+    "info": "El europio es un metal blando y plateado que pertenece a la serie de los lantánidos. Es muy reactivo y se oxida rápidamente al aire."
+  },
+  "element64": {
+    "name": "Gadolinio",
+    "n": 64,
+    "discoverer": "Jean Charles Galissard de Marignac",
+    "uses": "Materiales para control de neutrones, contraste en imágenes médicas, imanes de alta potencia, materiales luminiscentes",
+    "price": "400 USD por kilogramo",
+    "info": "El gadolinio es un metal plateado y brillante que pertenece a la serie de los lantánidos. Se encuentra en algunos minerales de tierras raras y es utilizado en una variedad de aplicaciones debido a sus propiedades magnéticas y su capacidad para absorber neutrones. También es utilizado como agente de contraste en imágenes médicas."
+  },
+  "element65": {
+    "name": "Terbio",
+    "n": 65,
+    "discoverer": "Carl Gustaf Mosander",
+    "uses": "Componente de imanes de alta resistencia, dispositivos optoelectrónicos, materiales luminiscentes",
+    "price": "430 USD por kilogramo",
+    "info": "El terbio es un metal plateado y brillante que pertenece a la serie de los lantánidos. Es muy raro en la naturaleza y se encuentra en algunos minerales de tierras raras."
+  },
+  "element66": {
+    "name": "Disprosio",
+    "n": 66,
+    "discoverer": "Lecoq de Boisbaudran",
+    "uses": "Componente de imanes de alta resistencia, materiales luminiscentes, cristales de láser",
+    "price": "400 USD por kilogramo",
+    "info": "El disprosio es un metal plateado y brillante que pertenece a la serie de los lantánidos. Es muy raro en la naturaleza y se encuentra en algunos minerales de tierras raras."
+  },
+  "element67": {
+    "name": "Holmio",
+    "n": 67,
+    "discoverer": "Marc Delafontaine y Jacques-Louis Soret",
+    "uses": "Imanes de alta potencia, materiales luminiscentes, control de reactores nucleares",
+    "price": "40 USD por gramo",
+    "info": "El holmio es un metal plateado y brillante que pertenece a la serie de los lantánidos. Se encuentra en algunos minerales de tierras raras y es utilizado en una variedad de aplicaciones debido a sus propiedades magnéticas y su capacidad para controlar la reacción en reactores nucleares."
+  },
+  "element68": {
+    "name": "Erbio",
+    "n": 68,
+    "discoverer": "Carl Gustaf Mosander",
+    "uses": "Aleaciones de alta resistencia, materiales luminiscentes, control de reactores nucleares",
+    "price": "10 USD por gramo",
+    "info": "El erbio es un metal plateado y brillante que pertenece a la serie de los lantánidos. Se encuentra en algunos minerales de tierras raras y es utilizado en una variedad de aplicaciones debido a sus propiedades magnéticas y su capacidad para controlar la reacción en reactores nucleares."
+  },
+  "element69": {
+    "name": "Tulio",
+    "n": 69,
+    "discoverer": "Per Teodor Cleve",
+    "uses": "Materiales luminiscentes, control de reactores nucleares",
+    "price": "350 USD por gramo",
+    "info": "El tulio es un metal plateado y brillante que pertenece a la serie de los lantánidos. Se encuentra en algunos minerales de tierras raras y es utilizado en una variedad de aplicaciones debido a su capacidad para controlar la reacción en reactores nucleares."
+  },
+  "element70": {
+    "name": "Iterbio",
+    "n": 70,
+    "discoverer": "Jean Charles Galissard de Marignac",
+    "uses": "Materiales luminiscentes, control de reactores nucleares",
+    "price": "180 USD por gramo",
+    "info": "El iterbio es un metal plateado y brillante que pertenece a la serie de los lantánidos. Se encuentra en algunos minerales de tierras raras y es utilizado en una variedad de aplicaciones debido a su capacidad para controlar la reacción en reactores nucleares y su capacidad para producir radiación láser."
+  },
+  "element71": {
+    "name": "Lutecio",
+    "n": 71,
+    "discoverer": "Georges Urbain e Carl Auer von Welsbach",
+    "uses": "Aleaciones de alta resistencia, materiales luminiscentes, detección de radiación",
+    "price": "150 USD por gramo",
+    "info": "El lutecio es un metal plateado y brillante que pertenece a la serie de los lantánidos. Se encuentra en algunos minerales de tierras raras y es utilizado en una variedad de aplicaciones debido a sus propiedades de resistencia y su capacidad para detectar radiación."
+  },
+  "element72": {
+    "name": "Hafnio",
+    "n": 72,
+    "discoverer": "Dirk Coster y George de Hevesy",
+    "uses": "Aleaciones de alta resistencia, materiales refractarios",
+    "price": "350 USD por kilogramo",
+    "info": "El hafnio es un metal grisáceo que se encuentra en minerales de circonio y es utilizado principalmente en aleaciones de alta resistencia y materiales refractarios. También se utiliza en la fabricación de barras de control para reactores nucleares."
+  },
+  "element73": {
+    "name": "Tantalio",
+    "n": 73,
+    "discoverer": "Anders Gustaf Ekeberg",
+    "uses": "Aleaciones de alta resistencia, capacitores electrónicos, herramientas de corte",
+    "price": "200 USD por kilogramo",
+    "info": "El tantalio es un metal grisáceo que se encuentra en minerales de tantalita y se utiliza en aleaciones de alta resistencia, capacitores electrónicos y herramientas de corte. También se utiliza en la fabricación de barras de control para reactores nucleares debido a su capacidad para absorber neutrones."
+  },
+  "element74": {
+    "name": "Wolframio",
+    "n": 74,
+    "discoverer": "Carl Wilhelm Scheele",
+    "uses": "Herramientas de corte, filamentos de bombillas, blindajes de radiación",
+    "price": "30 USD por kilogramo",
+    "info": "El wolframio es un metal grisáceo y denso que se encuentra en minerales de scheelita y wolframita. Es conocido por su alta resistencia y punto de fusión, lo que lo hace ideal para su uses en herramientas de corte y filamentos de bombillas. También se utiliza en blindajes de radiación y en la fabricación de barras de control para reactores nucleares."
+  },
+  "element75": {
+    "name": "Renio",
+    "n": 75,
+    "discoverer": "Masataka Ogawa, Noddack, y Walter Noddack",
+    "uses": "Aleaciones de alta resistencia, termopares, catalizadores",
+    "price": "4,000 USD por kilogramo",
+    "info": "El renio es un metal plateado que se encuentra en minerales de platino y es utilizado en aleaciones de alta resistencia, termopares y catalizadores. Es uno de los elements más raros en la corteza terrestre y se utiliza en aplicaciones de alta tecnología debido a su alta densidad y punto de fusión."
+  },
+  "element76": {
+    "name": "Osmio",
+    "n": 76,
+    "discoverer": "Smithson Tennant",
+    "uses": "Contactos eléctricos, aleaciones de alta resistencia",
+    "price": "400 USD por onza",
+    "info": "El osmio es un metal azul grisáceo que se encuentra en minerales de platino y se utiliza principalmente en contactos eléctricos y aleaciones de alta resistencia. Es uno de los elements más densos y difíciles de trabajar debido a su alta dureza y punto de fusión."
+  },
+  "element77": {
+    "name": "Iridio",
+    "n": 77,
+    "discoverer": "Smithson Tennant",
+    "uses": "Contactos eléctricos, aleaciones de alta resistencia",
+    "price": "800 USD por onza",
+    "info": "El iridio es un metal blanco plateado que se encuentra en minerales de platino y se utiliza en contactos eléctricos y aleaciones de alta resistencia. También se utiliza en joyería y en la fabricación de instrumentos científicos debido a su alta densidad y resistencia a la corrosión."
+  },
+  "element78": {
+    "name": "Platino",
+    "n": 78,
+    "discoverer": "Antonio de Ulloa",
+    "uses": "Joyas, catalizadores, contactos eléctricos",
+    "price": "40 USD por gramo",
+    "info": "El platino es un metal blanco plateado que se encuentra en minerales de platino y se utiliza principalmente en joyería, catalizadores y contactos eléctricos. Es uno de los metales más resistentes a la corrosión y al desgaste, lo que lo hace ideal para su uses en aplicaciones industriales."
+  },
+  "element79": {
+    "name": "Oro",
+    "n": 79,
+    "discoverer": "Desconocido (se han encontrado objetos de oro de la Edad del Cobre)",
+    "uses": "Joyería, electrónica, monedas",
+    "price": "1,700 USD por onza",
+    "info": "El oro es un metal suave y brillante que se encuentra en depósitos de roca y en ríos. Es conocido por su belleza y valor, lo que lo convierte en un metal muy popular para su uses en joyería y monedas. También se utiliza en la electrónica debido a su alta conductividad."
+  },
+  "element80": {
+    "name": "Mercurio",
+    "n": 80,
+    "discoverer": "Desconocido (conocido desde la antigüedad)",
+    "uses": "Termómetros, interruptores, lámparas fluorescentes",
+    "price": "1,000 USD por kilogramo",
+    "info": "El mercurio es un metal líquido plateado que se encuentra en depósitos de cinabrio. Es conocido por su alta conductividad térmica y eléctrica, lo que lo hace ideal para su uses en termómetros, interruptores y lámparas fluorescentes. Sin embargo, también es altamente tóxico y su uses está siendo cada vez más regulado debido a los riesgos para la salud."
+  },
+  "element81": {
+    "name": "Talio",
+    "n": 81,
+    "discoverer": "Sir William Crookes",
+    "uses": "Detectores de radiación, vidrio óptico",
+    "price": "30 USD por gramo",
+    "info": "El talio es un metal blando, grisáceo y venenoso que se encuentra en pequeñas cantidades en minerales como la crookesita. Se utiliza en la fabricación de detectores de radiación y vidrio óptico debido a sus propiedades ópticas únicas, aunque su uses se ha reducido debido a sus efectos tóxicos en la salud humana."
+  },
+  "element82": {
+    "name": "Plomo",
+    "n": 82,
+    "discoverer": "Desconocido (conocido desde la antigüedad)",
+    "uses": "Baterías, soldadura, municiones",
+    "price": "1.1 USD por libra",
+    "info": "El plomo es un metal gris azulado suave que se encuentra en la corteza terrestre. Se utiliza principalmente en la fabricación de baterías, soldaduras y municiones debido a su bajo punto de fusión y alta densidad. Sin embargo, también es altamente tóxico y su uses está siendo cada vez más regulado debido a los riesgos para la salud."
+  },
+  "element83": {
+    "name": "Bismuto",
+    "n": 83,
+    "discoverer": "Desconocido (conocido desde la antigüedad)",
+    "uses": "Medicina, cosméticos, aleaciones",
+    "price": "13 USD por kilogramo",
+    "info": "El bismuto es un metal blanco-plateado que se encuentra en minerales como la bismutita. Se utiliza en medicina, cosméticos y aleaciones debido a su baja toxicidad y propiedades únicas, como su alto punto de fusión y expansión térmica. También se utiliza en la fabricación de pigmentos y en la industria de la electrónica."
+  },
+  "element84": {
+    "name": "Polonio",
+    "n": 84,
+    "discoverer": "Marie Curie",
+    "uses": "Fuentes de neutrones, eliminación de cargas estáticas",
+    "price": "Varía en función de la cantidad y el tipo de compuesto",
+    "info": "El polonio es un element radioactivo, raro y altamente tóxico que se encuentra en minerales de uranio. Se utiliza en fuentes de neutrones y en la eliminación de cargas estáticas debido a su alta capacidad para emitir partículas alfa. El polonio es conocido por su uses en el envenenamiento de Alexander Litvinenko en 2006."
+  },
+  "element85": {
+    "name": "Astato",
+    "n": 85,
+    "discoverer": "Dale R. Corson, Kenneth Ross MacKenzie, Emilio G. Segrè",
+    "uses": "Investigación nuclear",
+    "price": "No se vende comercialmente",
+    "info": "El astato es un element radioactivo, raro y altamente inestable que se encuentra en pequeñas cantidades en minerales de uranio y torio. Debido a su corta vida media, no se utiliza en aplicaciones prácticas y se utiliza principalmente en la investigación nuclear."
+  },
+  "element86": {
+    "name": "Radón",
+    "n": 86,
+    "discoverer": "Friedrich Ernst Dorn",
+    "uses": "Investigación médica y científica",
+    "price": "No se vende comercialmente",
+    "info": "El radón es un gas radioactivo inodoro e incoloro que se encuentra en la naturaleza en pequeñas cantidades. Debido a su alta radiactividad, se utiliza en la investigación médica y científica para estudiar los efectos de la radiación en los organismos vivos. El radón también se asocia con la exposición a la radiación en interiores y se considera un riesgo para la salud pública."
+  },
+  "element87": {
+    "name": "Francio",
+    "n": 87,
+    "discoverer": "Marguerite Perey",
+    "uses": "Investigación científica",
+    "price": "No se vende comercialmente",
+    "info": "El francio es un element radioactivo, altamente inestable y altamente reactivo que se encuentra en pequeñas cantidades en minerales de uranio. Debido a su corta vida media y alta reactividad, no se utiliza en aplicaciones prácticas y se utiliza principalmente en la investigación científica."
+  },
+  "element88": {
+    "name": "Radio",
+    "n": 88,
+    "discoverer": "Marie Curie",
+    "uses": "Fuentes de radiación, investigación médica y científica",
+    "price": "Varía en función de la cantidad y el tipo de compuesto",
+    "info": "El radio es un element radioactivo y altamente reactivo que se encuentra en minerales de uranio. Se utiliza en fuentes de radiación y en la investigación médica y científica debido a su alta capacidad para emitir partículas alfa. El radio también se utilizó en la industria en el pasado, pero ahora se considera demasiado peligroso para su uses generalizado debido a sus efectos en la salud."
+  },
+  "element89": {
+    "name": "Actinio",
+    "n": 89,
+    "discoverer": "André-Louis Debierne",
+    "uses": "Investigación científica",
+    "price": "No se vende comercialmente",
+    "info": "El actinio es un element radioactivo, raro y altamente inestable que se encuentra en pequeñas cantidades en minerales de uranio y torio. Debido a su corta vida media y alta inestabilidad, no se utiliza en aplicaciones prácticas y se utiliza principalmente en la investigación científica."
+  },
+  "element90": {
+    "name": "Torio",
+    "n": 90,
+    "discoverer": "Jöns Jacob Berzelius",
+    "uses": "Reactor nuclear, lámparas de gas",
+    "price": "Varía en función de la cantidad y el tipo de compuesto",
+    "info": "El torio es un element radioactivo y altamente reactivo que se encuentra en pequeñas cantidades en minerales de uranio y torio. Se utiliza en reactores nucleares y en lámparas de gas debido a su capacidad para mantener una reacción en cadena y emitir partículas alfa. El torio también se ha propuesto como una alternativa más segura y sostenible al uranio en la producción de energía nuclear."
+  },
+  "element91": {
+    "name": "Protactinio",
+    "n": 91,
+    "discoverer": "William Crookes",
+    "uses": "Investigación científica",
+    "price": "No se vende comercialmente",
+    "info": "El protactinio es un element radioactivo, raro y altamente inestable que se encuentra en pequeñas cantidades en minerales de uranio y torio. Debido a su corta vida media y alta inestabilidad, no se utiliza en aplicaciones prácticas y se utiliza principalmente en la investigación científica."
+  },
+  "element92": {
+    "name": "Uranio",
+    "n": 92,
+    "discoverer": "Martin Heinrich Klaproth",
+    "uses": "Reactores nucleares, armamento nuclear, producción de energía eléctrica",
+    "price": "Varía en función de la cantidad y el tipo de compuesto",
+    "info": "El uranio es un element radioactivo que se encuentra en minerales de uranio y se utiliza como combustible en reactores nucleares y en la producción de energía eléctrica. También se utiliza en armamento nuclear y en la producción de materiales radiactivos para aplicaciones médicas e industriales."
+  },
+  "element93": {
+    "name": "Neptunio",
+    "n": 93,
+    "discoverer": "Edwin McMillan y Philip Abelson",
+    "uses": "Investigación científica",
+    "price": "No se vende comercialmente",
+    "info": "El neptunio es un element radioactivo, raro y altamente inestable que se encuentra en pequeñas cantidades en minerales de uranio. Debido a su corta vida media y alta inestabilidad, no se utiliza en aplicaciones prácticas y se utiliza principalmente en la investigación científica."
+  },
+  "element94": {
+    "name": "Plutonio",
+    "n": 94,
+    "discoverer": "Glenn T. Seaborg, Edwin McMillan, Joseph W. Kennedy y Arthur C. Wahl",
+    "uses": "Armamento nuclear, reactores nucleares",
+    "price": "Varía en función de la cantidad y el tipo de compuesto",
+    "info": "El plutonio es un element radioactivo y altamente reactivo que se produce artificialmente a través de la irradiación del uranio. Se utiliza en armamento nuclear y en la producción de combustible para reactores nucleares. El plutonio es extremadamente peligroso debido a su alta radioactividad y toxicidad química, y su manejo está altamente regulado."
+  },
+  "element95": {
+    "name": "Americio",
+    "n": 95,
+    "discoverer": "Glenn T. Seaborg, Ralph A. James y Albert Ghiorso",
+    "uses": "Detectores de humo, fuentes de radiación en la medicina nuclear, fuente de neutrones",
+    "price": "Varía en función de la cantidad y el tipo de compuesto",
+    "info": "El americio es un element radioactivo que se produce artificialmente a través de la irradiación del plutonio. Se utiliza en detectores de humo, fuentes de radiación en la medicina nuclear y como fuente de neutrones en la investigación científica."
+  },
+  "element96": {
+    "name": "Curio",
+    "n": 96,
+    "discoverer": "Glenn T. Seaborg, Ralph A. James y Albert Ghiorso",
+    "uses": "Investigación científica",
+    "price": "No se vende comercialmente",
+    "info": "El curio es un element radioactivo, raro y altamente inestable que se produce artificialmente a través de la irradiación del plutonio. Debido a su corta vida media y alta inestabilidad, no se utiliza en aplicaciones prácticas y se utiliza principalmente en la investigación científica."
+  },
+  "element97": {
+    "name": "Berkelio",
+    "n": 97,
+    "discoverer": "Glenn T. Seaborg, Albert Ghiorso y colaboradores",
+    "uses": "Investigación científica",
+    "price": "No se vende comercialmente",
+    "info": "El berkelio es un element radioactivo, raro y altamente inestable que se produce artificialmente a través de la irradiación del americio o curio. Debido a su corta vida media y alta inestabilidad, no se utiliza en aplicaciones prácticas y se utiliza principalmente en la investigación científica."
+  },
+  "element98": {
+    "name": "Californio",
+    "n": 98,
+    "discoverer": "Glenn T. Seaborg, Albert Ghiorso y colaboradores",
+    "uses": "Investigación científica",
+    "price": "No se vende comercialmente",
+    "info": "El californio es un element radioactivo, raro y altamente inestable que se produce artificialmente a través de la irradiación del curio. Debido a su corta vida media y alta inestabilidad, no se utiliza en aplicaciones prácticas y se utiliza principalmente en la investigación científica."
+  },
+  "element99": {
+    "name": "Einsteinio",
+    "n": 99,
+    "discoverer": "Argonne National Laboratory y la Universidad de California en Berkeley",
+    "uses": "Investigación científica",
+    "price": "No se vende comercialmente",
+    "info": "El einsteinio es un element radioactivo, raro y altamente inestable que se produce artificialmente a través de la irradiación del curio. Debido a su corta vida media y alta inestabilidad, no se utiliza en aplicaciones prácticas y se utiliza principalmente en la investigación científica."
+  },
+  "element100": {
+    "name": "Fermio",
+    "n": 100,
+    "discoverer": "Argonne National Laboratory y la Universidad de California en Berkeley",
+    "uses": "Investigación científica",
+    "price": "No se vende comercialmente",
+    "info": "El fermio es un element radioactivo, raro y altamente inestable que se produce artificialmente a través de la irradiación del plutonio. Debido a su corta vida media y alta inestabilidad, no se utiliza en aplicaciones prácticas y se utiliza principalmente en la investigación científica."
+  },
+  "element101": {
+    "name": "Mendelevio",
+    "n": 101,
+    "discoverer": "Universidad de California en Berkeley",
+    "uses": "Investigación científica",
+    "price": "No se vende comercialmente",
+    "info": "El mendelevio es un element radioactivo, raro y altamente inestable que se produce artificialmente a través de la irradiación del einsteinio. Debido a su corta vida media y alta inestabilidad, no se utiliza en aplicaciones prácticas y se utiliza principalmente en la investigación científica."
+  },
+  "element102": {
+    "name": "Nobelio",
+    "n": 102,
+    "discoverer": "Joint Institute for Nuclear Research en Dubna, Rusia y la Universidad de California en Berkeley",
+    "uses": "Investigación científica",
+    "price": "No se vende comercialmente",
+    "info": "El nobelio es un element radioactivo, raro y altamente inestable que se produce artificialmente a través de la irradiación del curio. Debido a su corta vida media y alta inestabilidad, no se utiliza en aplicaciones prácticas y se utiliza principalmente en la investigación científica."
+  },
+  "element103": {
+    "name": "Lawrencio",
+    "n": 103,
+    "discoverer": "Joint Institute for Nuclear Research en Dubna, Rusia y la Universidad de California en Berkeley",
+    "uses": "Investigación científica",
+    "price": "No se vende comercialmente",
+    "info": "El lawrencio es un element radioactivo, raro y altamente inestable que se produce artificialmente a través de la irradiación del californio. Debido a su corta vida media y alta inestabilidad, no se utiliza en aplicaciones prácticas y se utiliza principalmente en la investigación científica."
+  },
+  "element104": {
+    "name": "Rutherfordio",
+    "n": 104,
+    "discoverer": "Equipo conjunto del Instituto de Investigación de Iones Pesados y el Laboratorio Nacional Lawrence Livermore",
+    "info": "El rutherfordio es un element químico sintético y altamente inestable. Su forma más estable es el isótopo Rf-267, que tiene una vida media de solo unos pocos segundos. Fue sintetizado por primera vez en 1964 por un equipo de científicos en Dubna, Rusia, y fue nombrado en honor a Ernest Rutherford, uno de los padres de la física nuclear.",
+    "uses": "El rutherfordio se utiliza principalmente para la investigación científica.",
+    "price": "No hay información disponible sobre el price del rutherfordio en el mercado."
+  },
+  "element105": {
+    "name": "Dubnio",
+    "n": 105,
+    "discoverer": "Equipo conjunto del Instituto de Investigación Nuclear de Dubna y el Laboratorio Nacional Lawrence Berkeley",
+    "info": "El dubnio es un element químico sintético y altamente inestable. Su forma más estable es el isótopo Db-270, que tiene una vida media de solo unos pocos segundos. Fue sintetizado por primera vez en 1967 por un equipo de científicos en Dubna, Rusia, y fue nombrado en honor a la ciudad de Dubna.",
+    "uses": "El dubnio se utiliza principalmente para la investigación científica.",
+    "price": "No hay información disponible sobre el price del dubnio en el mercado."
+  },
+  "element106": {
+    "name": "Seaborgio",
+    "n": 106,
+    "discoverer": "Equipo conjunto del Laboratorio Nacional Lawrence Berkeley y el Instituto de Investigación Nuclear de Dubna",
+    "info": "El seaborgio es un element químico sintético y altamente inestable. Su forma más estable es el isótopo Sg-271, que tiene una vida media de solo unos pocos segundos. Fue sintetizado por primera vez en 1974 por un equipo de científicos en Dubna, Rusia, y fue nombrado en honor al químico y físico Glenn T. Seaborg, quien fue uno de los padres de la química nuclear moderna.",
+    "uses": "El seaborgio se utiliza principalmente para la investigación científica.",
+    "price": "No hay información disponible sobre el price del seaborgio en el mercado."
+  },
+  "element107": {
+    "name": "Bohrio",
+    "n": 107,
+    "discoverer": "Equipo conjunto del Laboratorio Nacional Lawrence Berkeley y el Instituto de Investigación Nuclear de Dubna",
+    "uses": "El bohrio no tiene aplicaciones comerciales conocidas.",
+    "price": "price no disponible",
+    "info": "El bohrio es un element sintético y radiactivo que pertenece a la serie de los transactínidos en la tabla periódica."
+  },
+  "element108": {
+    "name": "Hasio",
+    "n": 108,
+    "discoverer": "Equipo conjunto del Laboratorio Nacional Lawrence Berkeley y el Instituto de Investigación Nuclear de Dubna",
+    "uses": "El hasio no tiene aplicaciones comerciales conocidas.",
+    "price": "price no disponible",
+    "info": "El hasio es un element sintético y radiactivo que pertenece a la serie de los transactínidos en la tabla periódica."
+  },
+  "element109": {
+    "name": "Meitnerio",
+    "n": 109,
+    "discoverer": "Equipo conjunto del Laboratorio Nacional Lawrence Berkeley y el Instituto de Investigación Nuclear de Dubna",
+    "uses": "El meitnerio no tiene aplicaciones comerciales conocidas.",
+    "price": "price no disponible",
+    "info": "El meitnerio es un element sintético y radiactivo que pertenece a la serie de los transactínidos en la tabla periódica."
+  },
+  "element110": {
+    "name": "Darmstadtio",
+    "n": 110,
+    "discoverer": "Equipo conjunto del Laboratorio Nacional Lawrence Berkeley y el Instituto de Investigación Nuclear de Dubna",
+    "uses": "El darmstadtio no tiene aplicaciones comerciales conocidas.",
+    "price": "price no disponible",
+    "info": "El darmstadtio es un element sintético y radiactivo que pertenece a la serie de los transactínidos en la tabla periódica."
+  },
+  "element111": {
+    "name": "Roentgenio",
+    "n": 111,
+    "discoverer": "Gesellschaft für Schwerionenforschung",
+    "uses": "No tiene aplicaciones conocidas",
+    "price": "price del Roentgenio es desconocido",
+    "info": "El Roentgenio es un element químico sintético radiactivo, perteneciente a la serie química de los metales de transición. Fue descubierto en Alemania en 1994."
+  },
+  "element112": {
+    "name": "Copernicio",
+    "n": 112,
+    "discoverer": "Gesellschaft für Schwerionenforschung",
+    "uses": "No tiene aplicaciones conocidas",
+    "price": "price del Copernicio es desconocido",
+    "info": "El Copernicio es un element químico sintético radiactivo, perteneciente a la serie química de los metales de transición. Fue descubierto en Alemania en 1996."
+  },
+  "element113": {
+    "name": "Nihonio",
+    "n": 113,
+    "discoverer": "Japón",
+    "uses": "No tiene aplicaciones conocidas",
+    "price": "price del Nihonio es desconocido",
+    "info": "El Nihonio es un element químico sintético radiactivo, perteneciente a la serie química de los metales de transición. Fue descubierto en Japón en 2004."
+  },
+  "element114": {
+    "name": "Flerovio",
+    "n": 114,
+    "discoverer": "Instituto Conjunto de Investigación Nuclear",
+    "uses": "No tiene aplicaciones conocidas",
+    "price": "price del Flerovio es desconocido",
+    "info": "El Flerovio es un element químico sintético radiactivo, perteneciente a la serie química de los metales de transición. Fue descubierto en Rusia en 1998."
+  },
+  "element115": {
+    "name": "Moscovio",
+    "n": 115,
+    "discoverer": "Equipo conjunto del Instituto de Investigación Nuclear de Dubna y el Laboratorio Nacional Lawrence Livermore",
+    "uses": "El moscovio se ha sintetizado solo en cantidades muy pequeñas y no tiene uses prácticos conocidos.",
+    "price": "price no disponible",
+    "info": "El moscovio es un element sintético y radiactivo que pertenece a la serie de los superactínidos en la tabla periódica."
+  },
+  "element116": {
+    "name": "Livermorio",
+    "n": 116,
+    "discoverer": "Equipo conjunto del Instituto de Investigación Nuclear de Dubna y el Laboratorio Nacional Lawrence Livermore",
+    "uses": "El livermorio se ha sintetizado solo en cantidades muy pequeñas y no tiene uses prácticos conocidos.",
+    "price": "price no disponible",
+    "info": "El livermorio es un element sintético y radiactivo que pertenece a la serie de los superactínidos en la tabla periódica."
+  },
+  "element117": {
+    "name": "Tennesso",
+    "n": 117,
+    "discoverer": "Equipo conjunto del Instituto de Investigación Nuclear de Dubna y el Laboratorio Nacional Lawrence Livermore",
+    "uses": "El tennesso se ha sintetizado solo en cantidades muy pequeñas y no tiene uses prácticos conocidos.",
+    "price": "price no disponible",
+    "info": "El tennesso es un element sintético y radiactivo que pertenece a la serie de los superactínidos en la tabla periódica."
+  },
+  "element118": {
+    "name": "Oganessón",
+    "n": 118,
+    "discoverer": "Equipo conjunto del Instituto de Investigación Nuclear de Dubna y el Laboratorio Nacional Lawrence Livermore",
+    "uses": "El oganessón se ha sintetizado solo en cantidades muy pequeñas y no tiene uses prácticos conocidos.",
+    "price": "price no disponible",
+    "info": "El oganessón es un element sintético y radiactivo que pertenece a la serie de los superactínidos en la tabla periódica."
   }
 }
