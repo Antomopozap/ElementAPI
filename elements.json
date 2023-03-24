@@ -1,357 +1,357 @@
 {
   "element1": {
     "name": "Hidrógeno",
-    "numero_atómico": 1,
+    "n": 1,
     "discoverer": "Henry Cavendish",
     "uses": "combustible, producción de amoníaco y productos químicos",
     "price": "0.0012 USD por gramo",
-    "descripción": "El hidrógeno es el element más abundante del universo y es un gas altamente inflamable sin color, olor ni sabor."
+    "info": "El hidrógeno es el element más abundante del universo y es un gas altamente inflamable sin color, olor ni sabor."
   },
   "element2": {
     "name": "Helio",
-    "numero_atómico": 2,
+    "n": 2,
     "discoverer": "Pierre-Jules-César Janssen",
     "uses": "enfriamiento, globos aerostáticos y como gas de protección en la soldadura",
     "price": "9.8 USD por litro",
-    "descripción": "El helio es un gas noble inodoro, sin sabor y no tóxico que es el segundo element más ligero y el segundo más abundante en el universo."
+    "info": "El helio es un gas noble inodoro, sin sabor y no tóxico que es el segundo element más ligero y el segundo más abundante en el universo."
   },
   "element3": {
     "name": "Litio",
-    "numero_atómico": 3,
+    "n": 3,
     "discoverer": "Johan August Arfwedson",
     "uses": "baterías, aleaciones, medicamentos",
     "price": "0.87 USD por gramo",
-    "descripción": "El litio es un metal suave, blanco plateado y altamente reactivo que se encuentra en varios minerales y salmueras. Es el element más ligero de los metales sólidos."
+    "info": "El litio es un metal suave, blanco plateado y altamente reactivo que se encuentra en varios minerales y salmueras. Es el element más ligero de los metales sólidos."
   },
   "element4": {
     "name": "Berilio",
-    "numero_atómico": 4,
+    "n": 4,
     "discoverer": "Louis-Nicolas Vauquelin",
     "uses": "aleaciones, ventanas de rayos X, reactores nucleares",
     "price": "230 USD por kilogramo",
-    "descripción": "El berilio es un metal grisáceo, duro y liviano con propiedades no inflamables y no magnéticas. Es el cuarto element más ligero y tiene una alta conductividad térmica."
+    "info": "El berilio es un metal grisáceo, duro y liviano con propiedades no inflamables y no magnéticas. Es el cuarto element más ligero y tiene una alta conductividad térmica."
   },
   "element5": {
     "name": "Boro",
-    "numero_atómico": 5,
+    "n": 5,
     "discoverer": "Joseph Louis Gay-Lussac",
     "uses": "fibras de vidrio, cerámica, semiconductores",
     "price": "19.5 USD por kilogramo",
-    "descripción": "El boro es un element no metálico, cristalino y negro que se utiliza en la industria como un agente endurecedor y como aditivo en aleaciones. También se encuentra en muchos compuestos orgánicos y esencial para la vida de las plantas."
+    "info": "El boro es un element no metálico, cristalino y negro que se utiliza en la industria como un agente endurecedor y como aditivo en aleaciones. También se encuentra en muchos compuestos orgánicos y esencial para la vida de las plantas."
   },
   "element6": {
     "name": "Carbono",
-    "numero_atómico": 6,
+    "n": 6,
     "discoverer": "Antoine Lavoisier",
     "uses": "combustibles, plásticos, joyería",
     "price": "0.06 USD por gramo",
-    "descripción": "El carbono es un element no metálico, sólido y extremadamente versátil que se encuentra en muchas formas diferentes, incluyendo diamantes y grafito. Es el cuarto element más abundante en el universo."
+    "info": "El carbono es un element no metálico, sólido y extremadamente versátil que se encuentra en muchas formas diferentes, incluyendo diamantes y grafito. Es el cuarto element más abundante en el universo."
   },
   "element7": {
     "name": "Nitrógeno",
-    "numero_atómico": 7,
+    "n": 7,
     "discoverer": "Daniel Rutherford",
     "uses": "fertilizantes, producción de amoníaco, congelación de alimentos",
     "price": "0.0022 USD por gramo",
-    "descripción": "El nitrógeno es un gas incoloro e inodoro que es el element más abundante en la atmósfera terrestre. Es esencial para la vida, ya que forma parte de muchos compuestos biológicos importantes como proteínas y ácidos nucleicos."
+    "info": "El nitrógeno es un gas incoloro e inodoro que es el element más abundante en la atmósfera terrestre. Es esencial para la vida, ya que forma parte de muchos compuestos biológicos importantes como proteínas y ácidos nucleicos."
   },
   "element8": {
     "name": "Oxígeno",
-    "numero_atómico": 8,
+    "n": 8,
     "discoverer": "Carl Wilhelm Scheele",
     "uses": "respiración, soldadura, producción de acero",
     "price": "0.002 USD por gramo",
-    "descripción": "El oxígeno es un gas incoloro, inodoro y altamente reactivo que es esencial para la respiración y la combustión. Es el tercer element más abundante en el universo y el element más abundante en la corteza terrestre."
+    "info": "El oxígeno es un gas incoloro, inodoro y altamente reactivo que es esencial para la respiración y la combustión. Es el tercer element más abundante en el universo y el element más abundante en la corteza terrestre."
   },
   "element9": {
     "name": "Flúor",
-    "numero_atómico": 9,
+    "n": 9,
     "discoverer": "Henri Moissan",
     "uses": "productos dentales, refrigerantes, polímeros",
     "price": "1.5 USD por 100 gramos",
-    "descripción": "El flúor es un element químico altamente reactivo y corrosivo que se utiliza en la producción de una amplia gama de productos químicos. También se encuentra en muchos compuestos biológicos y se ha demostrado que es esencial para la salud dental."
+    "info": "El flúor es un element químico altamente reactivo y corrosivo que se utiliza en la producción de una amplia gama de productos químicos. También se encuentra en muchos compuestos biológicos y se ha demostrado que es esencial para la salud dental."
   },
   "element10": {
     "name": "Neón",
-    "numero_atómico": 10,
+    "n": 10,
     "discoverer": "Morris Travers, William Ramsay",
     "uses": "luces de neón, detectores de gas, investigación científica",
     "price": "33.6 USD por litro",
-    "descripción": "El neón es un gas noble incoloro e inodoro que se utiliza en muchos dispositivos de iluminación, incluyendo lámparas de neón y letreros de neón. También se utiliza en la investigación científica como refrigerante y detector de partículas."
+    "info": "El neón es un gas noble incoloro e inodoro que se utiliza en muchos dispositivos de iluminación, incluyendo lámparas de neón y letreros de neón. También se utiliza en la investigación científica como refrigerante y detector de partículas."
   },
   "element11": {
     "name": "Sodio",
-    "numero_atómico": 11,
+    "n": 11,
     "discoverer": "Humphry Davy",
     "uses": "procesamiento de alimentos, baterías, vidrio",
     "price": "0.1 USD por gramo",
-    "descripción": "El sodio es un metal altamente reactivo y suave que es esencial para muchos procesos biológicos. Se encuentra en muchos alimentos y se utiliza en la producción de muchos productos químicos importantes, como vidrio y baterías."
+    "info": "El sodio es un metal altamente reactivo y suave que es esencial para muchos procesos biológicos. Se encuentra en muchos alimentos y se utiliza en la producción de muchos productos químicos importantes, como vidrio y baterías."
   },
   "element12": {
     "name": "Magnesio",
-    "numero_atómico": 12,
+    "n": 12,
     "discoverer": "Joseph Black",
     "uses": "aleaciones, procesamiento de alimentos, productos farmacéuticos",
     "price": "0.03 USD por gramo",
-    "descripción": "El magnesio es un metal ligero y altamente reactivo que se encuentra en muchos minerales y en el agua de mar. Se utiliza en aleaciones con otros metales para mejorar sus propiedades y también es esencial para muchos procesos biológicos."
+    "info": "El magnesio es un metal ligero y altamente reactivo que se encuentra en muchos minerales y en el agua de mar. Se utiliza en aleaciones con otros metales para mejorar sus propiedades y también es esencial para muchos procesos biológicos."
   },
   "element13": {
     "name": "Aluminio",
-    "numero_atómico": 13,
+    "n": 13,
     "discoverer": "Hans Christian Ørsted",
     "uses": "construcción, envases, transporte",
     "price": "1.3 USD por kilogramo",
-    "descripción": "El aluminio es un metal ligero y resistente que se utiliza en una amplia variedad de aplicaciones, incluyendo la construcción, el envasado y el transporte. Es el tercer element más abundante en la corteza terrestre y se encuentra en muchos minerales diferentes."
+    "info": "El aluminio es un metal ligero y resistente que se utiliza en una amplia variedad de aplicaciones, incluyendo la construcción, el envasado y el transporte. Es el tercer element más abundante en la corteza terrestre y se encuentra en muchos minerales diferentes."
   },
   "element14": {
     "name": "Silicio",
-    "numero_atómico": 14,
+    "n": 14,
     "discoverer": "Jöns Jakob Berzelius",
     "uses": "semiconductores, vidrio, cerámica",
     "price": "0.006 USD por gramo",
-    "descripción": "El silicio es un element no metálico que se utiliza en la producción de muchos productos electrónicos, como semiconductores y células solares. También se utiliza en la fabricación de vidrio y cerámica y es el segundo element más abundante en la corteza terrestre."
+    "info": "El silicio es un element no metálico que se utiliza en la producción de muchos productos electrónicos, como semiconductores y células solares. También se utiliza en la fabricación de vidrio y cerámica y es el segundo element más abundante en la corteza terrestre."
   },
 
   "element15": {
     "name": "Fósforo",
-    "numero_atómico": 15,
+    "n": 15,
     "discoverer": "Hennig Brand",
     "uses": "fertilizantes, cerillas, aditivos alimentarios",
     "price": "0.006 USD por gramo",
-    "descripción": "El fósforo es un element químico no metálico que se encuentra en muchas formas diferentes, incluyendo el fósforo blanco y el rojo. Es esencial para la vida, ya que forma parte de muchos compuestos biológicos importantes como el ADN y los fosfolípidos de las membranas celulares."
+    "info": "El fósforo es un element químico no metálico que se encuentra en muchas formas diferentes, incluyendo el fósforo blanco y el rojo. Es esencial para la vida, ya que forma parte de muchos compuestos biológicos importantes como el ADN y los fosfolípidos de las membranas celulares."
   },
   "element16": {
     "name": "Azufre",
-    "numero_atómico": 16,
+    "n": 16,
     "discoverer": "Antigüedad",
     "uses": "fertilizantes, productos químicos, producción de papel",
     "price": "0.15 USD por kilogramo",
-    "descripción": "El azufre es un element químico no metálico que se encuentra en muchos minerales y compuestos orgánicos. Es un componente esencial de muchos compuestos importantes, incluyendo los aminoácidos y la insulina, y se utiliza en la producción de una amplia gama de productos químicos."
+    "info": "El azufre es un element químico no metálico que se encuentra en muchos minerales y compuestos orgánicos. Es un componente esencial de muchos compuestos importantes, incluyendo los aminoácidos y la insulina, y se utiliza en la producción de una amplia gama de productos químicos."
   },
   "element17": {
     "name": "Cloro",
-    "numero_atómico": 17,
+    "n": 17,
     "discoverer": "Carl Wilhelm Scheele",
     "uses": "productos químicos, desinfectantes, piscinas",
     "price": "0.003 USD por gramo",
-    "descripción": "El cloro es un element químico altamente reactivo y corrosivo que se utiliza en la producción de muchos productos químicos importantes, incluyendo productos de limpieza y desinfectantes. También se utiliza en la purificación del agua y en la producción de cloruro de sodio, o sal de mesa."
+    "info": "El cloro es un element químico altamente reactivo y corrosivo que se utiliza en la producción de muchos productos químicos importantes, incluyendo productos de limpieza y desinfectantes. También se utiliza en la purificación del agua y en la producción de cloruro de sodio, o sal de mesa."
   },
   "element18": {
     "name": "Argón",
-    "numero_atómico": 18,
+    "n": 18,
     "discoverer": "Lord Rayleigh, Sir William Ramsay",
     "uses": "protección de soldadura, iluminación, investigación científica",
     "price": "0.33 USD por litro",
-    "descripción": "El argón es un gas noble incoloro e inodoro que se utiliza en la soldadura y la iluminación debido a su capacidad para proteger de la oxidación. También se utiliza en la investigación científica como gas de relleno para mantener ambientes inertes."
+    "info": "El argón es un gas noble incoloro e inodoro que se utiliza en la soldadura y la iluminación debido a su capacidad para proteger de la oxidación. También se utiliza en la investigación científica como gas de relleno para mantener ambientes inertes."
   },
   "element19": {
     "name": "Potasio",
-    "numero_atómico": 19,
+    "n": 19,
     "discoverer": "Sir Humphry Davy",
     "uses": "fertilizantes, productos químicos, aleaciones",
     "price": "0.05 USD por gramo",
-    "descripción": "El potasio es un metal alcalino altamente reactivo que se encuentra en muchos minerales y compuestos orgánicos. Es esencial para la vida, ya que ayuda a regular el equilibrio de los líquidos corporales."
+    "info": "El potasio es un metal alcalino altamente reactivo que se encuentra en muchos minerales y compuestos orgánicos. Es esencial para la vida, ya que ayuda a regular el equilibrio de los líquidos corporales."
   },
   "element20": {
     "name": "Calcio",
-    "numero_atómico": 20,
+    "n": 20,
     "discoverer": "Sir Humphry Davy",
     "uses": "construcción, producción de acero, suplementos dietéticos",
     "price": "0.025 USD por gramo",
-    "descripción": "El calcio es un metal alcalinotérreo plateado y blando que es esencial para la vida, ya que es un componente importante de los huesos y los dientes. También se utiliza en la construcción y la producción de acero, así como en suplementos dietéticos."
+    "info": "El calcio es un metal alcalinotérreo plateado y blando que es esencial para la vida, ya que es un componente importante de los huesos y los dientes. También se utiliza en la construcción y la producción de acero, así como en suplementos dietéticos."
   },
   "element21": {
     "name": "Escandio",
-    "numero_atómico": 21,
+    "n": 21,
     "discoverer": "Lars Fredrik Nilson",
     "uses": "aleaciones de aluminio, lámparas de alta intensidad",
     "price": "8 USD por gramo",
-    "descripción": "El escandio es un metal de transición blanco plateado que se encuentra en algunos minerales raros. Se utiliza en aleaciones de aluminio para mejorar la resistencia y en lámparas de alta intensidad para producir una luz blanca brillante."
+    "info": "El escandio es un metal de transición blanco plateado que se encuentra en algunos minerales raros. Se utiliza en aleaciones de aluminio para mejorar la resistencia y en lámparas de alta intensidad para producir una luz blanca brillante."
   },
   "element22": {
     "name": "Titanio",
-    "numero_atómico": 22,
+    "n": 22,
     "discoverer": "William Gregor",
     "uses": "aeronáutica, implantes médicos, equipos deportivos",
     "price": "4.5 USD por gramo",
-    "descripción": "El titanio es un metal de transición plateado y resistente que se utiliza en una amplia gama de aplicaciones, desde la aeronáutica hasta los implantes médicos y los equipos deportivos. Es conocido por su alta resistencia a la corrosión y su baja densidad."
+    "info": "El titanio es un metal de transición plateado y resistente que se utiliza en una amplia gama de aplicaciones, desde la aeronáutica hasta los implantes médicos y los equipos deportivos. Es conocido por su alta resistencia a la corrosión y su baja densidad."
   },
   "element23": {
     "name": "Vanadio",
-    "numero_atómico": 23,
+    "n": 23,
     "discoverer": "Andrés Manuel del Río",
     "uses": "aleaciones, baterías, acero",
     "price": "0.3 USD por gramo",
-    "descripción": "El vanadio es un metal de transición plateado y duro que se utiliza principalmente en aleaciones para mejorar la resistencia y la durabilidad. También se utiliza en la producción de baterías y en la fabricación de acero."
+    "info": "El vanadio es un metal de transición plateado y duro que se utiliza principalmente en aleaciones para mejorar la resistencia y la durabilidad. También se utiliza en la producción de baterías y en la fabricación de acero."
   },
   "element24": {
     "name": "Cromo",
-    "numero_atómico": 24,
+    "n": 24,
     "discoverer": "Louis Nicolas Vauquelin",
     "uses": "acero inoxidable, pinturas, aleaciones",
     "price": "0.15 USD por gramo",
-    "descripción": "El cromo es un metal de transición gris plateado que se utiliza en una amplia gama de aplicaciones, desde el acero inoxidable hasta las pinturas y las aleaciones. Es conocido por su alta resistencia a la corrosión y su capacidad para endurecer los metales."
+    "info": "El cromo es un metal de transición gris plateado que se utiliza en una amplia gama de aplicaciones, desde el acero inoxidable hasta las pinturas y las aleaciones. Es conocido por su alta resistencia a la corrosión y su capacidad para endurecer los metales."
   },
 
   "element25": {
     "name": "Manganeso",
-    "numero_atómico": 25,
+    "n": 25,
     "discoverer": "Johan Gottlieb Gahn",
     "uses": "producción de acero, baterías, pinturas",
     "price": "0.3 USD por gramo",
-    "descripción": "El manganeso es un metal gris plateado que se utiliza principalmente en la producción de acero y en la fabricación de baterías. También se utiliza en la fabricación de pinturas y como catalizador en la producción de plásticos."
+    "info": "El manganeso es un metal gris plateado que se utiliza principalmente en la producción de acero y en la fabricación de baterías. También se utiliza en la fabricación de pinturas y como catalizador en la producción de plásticos."
   },
   "element26": {
     "name": "Hierro",
-    "numero_atómico": 26,
+    "n": 26,
     "discoverer": "Desconocido",
     "uses": "construcción, producción de acero, imanes",
     "price": "0.1 USD por gramo",
-    "descripción": "El hierro es un metal plateado grisáceo que es el element más común en la Tierra y uno de los más importantes en la industria. Se utiliza en la construcción, la producción de acero y la fabricación de imanes, entre otras cosas."
+    "info": "El hierro es un metal plateado grisáceo que es el element más común en la Tierra y uno de los más importantes en la industria. Se utiliza en la construcción, la producción de acero y la fabricación de imanes, entre otras cosas."
   },
   "element27": {
     "name": "Cobalto",
-    "numero_atómico": 27,
+    "n": 27,
     "discoverer": "Georg Brandt",
     "uses": "imanes, aleaciones, baterías",
     "price": "0.7 USD por gramo",
-    "descripción": "El cobalto es un metal grisáceo que se utiliza principalmente en la producción de imanes y aleaciones. También se utiliza en la fabricación de baterías y en la producción de pigmentos para pinturas y cerámicas."
+    "info": "El cobalto es un metal grisáceo que se utiliza principalmente en la producción de imanes y aleaciones. También se utiliza en la fabricación de baterías y en la producción de pigmentos para pinturas y cerámicas."
   },
   "element28": {
     "name": "Níquel",
-    "numero_atómico": 28,
+    "n": 28,
     "discoverer": "Axel Fredrik Cronstedt",
     "uses": "aleaciones, baterías, monedas",
     "price": "0.08 USD por gramo",
-    "descripción": "El níquel es un metal plateado blanco que se utiliza principalmente en la producción de aleaciones para mejorar la resistencia y la durabilidad. También se utiliza en la fabricación de baterías y en la producción de monedas y otros objetos de metal."
+    "info": "El níquel es un metal plateado blanco que se utiliza principalmente en la producción de aleaciones para mejorar la resistencia y la durabilidad. También se utiliza en la fabricación de baterías y en la producción de monedas y otros objetos de metal."
   },
   "element29": {
     "name": "Cobre",
-    "numero_atómico": 29,
+    "n": 29,
     "discoverer": "Desconocido",
     "uses": "conductividad eléctrica, monedas, joyería",
     "price": "9 USD por kilogramo",
-    "descripción": "El cobre es un metal rojizo que es muy conocido por su alta conductividad eléctrica y su ductilidad. Se utiliza en una amplia gama de aplicaciones, desde cables eléctricos hasta monedas y joyería."
+    "info": "El cobre es un metal rojizo que es muy conocido por su alta conductividad eléctrica y su ductilidad. Se utiliza en una amplia gama de aplicaciones, desde cables eléctricos hasta monedas y joyería."
   },
   "element30": {
     "name": "Zinc",
-    "numero_atómico": 30,
+    "n": 30,
     "discoverer": "Andrés Manuel del Río",
     "uses": "galvanización, baterías, aleaciones",
     "price": "0.02 USD por gramo",
-    "descripción": "El zinc es un metal plateado que se utiliza principalmente en la galvanización de metales para protegerlos contra la corrosión. También se utiliza en la producción de baterías y aleaciones para mejorar su resistencia y durabilidad."
+    "info": "El zinc es un metal plateado que se utiliza principalmente en la galvanización de metales para protegerlos contra la corrosión. También se utiliza en la producción de baterías y aleaciones para mejorar su resistencia y durabilidad."
   },
   "element31": {
     "name": "Galio",
-    "numero_atómico": 31,
+    "n": 31,
     "discoverer": "Paul Emile Lecoq de Boisbaudran",
     "uses": "semiconductores, láseres, termómetros",
     "price": "10 USD por gramo",
-    "descripción": "El galio es un metal blando y plateado que se utiliza principalmente en la fabricación de semiconductores y dispositivos electrónicos. También se utiliza en la producción de láseres y termómetros, entre otras cosas."
+    "info": "El galio es un metal blando y plateado que se utiliza principalmente en la fabricación de semiconductores y dispositivos electrónicos. También se utiliza en la producción de láseres y termómetros, entre otras cosas."
   },
   "element32": {
     "name": "Germanio",
-    "numero_atómico": 32,
+    "n": 32,
     "discoverer": "Clemens Winkler",
     "uses": "semiconductores, fibra óptica, lentes",
     "price": "700 USD por kilogramo",
-    "descripción": "El germanio es un metaloide grisáceo que se utiliza principalmente en la fabricación de semiconductores y dispositivos electrónicos. También se utiliza en la producción de fibra óptica y lentes para cámaras y telescopios."
+    "info": "El germanio es un metaloide grisáceo que se utiliza principalmente en la fabricación de semiconductores y dispositivos electrónicos. También se utiliza en la producción de fibra óptica y lentes para cámaras y telescopios."
   },
   "element33": {
     "name": "Arsénico",
-    "numero_atómico": 33,
+    "n": 33,
     "discoverer": "Albertus Magnus",
     "uses": "pesticidas, medicamentos, semiconductores",
     "price": "0.2 USD por gramo",
-    "descripción": "El arsénico es un metaloide grisáceo que es conocido por su toxicidad. Se utiliza en la producción de pesticidas y medicamentos, así como en la fabricación de semiconductores y otros dispositivos electrónicos."
+    "info": "El arsénico es un metaloide grisáceo que es conocido por su toxicidad. Se utiliza en la producción de pesticidas y medicamentos, así como en la fabricación de semiconductores y otros dispositivos electrónicos."
   },
   "element34": {
     "name": "Selenio",
-    "numero_atómico": 34,
+    "n": 34,
     "discoverer": "Jöns Jakob Berzelius",
     "uses": "células solares, vidrio, pigmentos",
     "price": "0.2 USD por gramo",
-    "descripción": "El selenio es un metaloide grisáceo que se utiliza principalmente en la producción de células solares y otros dispositivos electrónicos. También se utiliza en la fabricación de vidrio y en la producción de pigmentos para pinturas y cerámicas."
+    "info": "El selenio es un metaloide grisáceo que se utiliza principalmente en la producción de células solares y otros dispositivos electrónicos. También se utiliza en la fabricación de vidrio y en la producción de pigmentos para pinturas y cerámicas."
   },
   "element35": {
     "name": "Bromo",
-    "numero_atómico": 35,
+    "n": 35,
     "discoverer": "Antoine-Jérôme Balard",
     "uses": "plásticos, pesticidas, medicamentos",
     "price": "0.3 USD por gramo",
-    "descripción": "El bromo es un líquido marrón-rojizo que se utiliza en la producción de plásticos y productos químicos. También se utiliza en la fabricación de pesticidas y medicamentos para tratar enfermedades como el asma y la bronquitis."
+    "info": "El bromo es un líquido marrón-rojizo que se utiliza en la producción de plásticos y productos químicos. También se utiliza en la fabricación de pesticidas y medicamentos para tratar enfermedades como el asma y la bronquitis."
   },
   "element36": {
     "name": "Kriptón",
-    "numero_atómico": 36,
+    "n": 36,
     "discoverer": "William Ramsay",
     "uses": "iluminación, soldadura, láseres",
     "price": "2 USD por litro",
-    "descripción": "El kriptón es un gas noble inodoro e incoloro que se utiliza principalmente en la iluminación y en la soldadura de metales. También se utiliza en la producción de láseres y otros dispositivos electrónicos."
+    "info": "El kriptón es un gas noble inodoro e incoloro que se utiliza principalmente en la iluminación y en la soldadura de metales. También se utiliza en la producción de láseres y otros dispositivos electrónicos."
   },
   "element37": {
     "name": "Rubidio",
-    "numero_atómico": 37,
+    "n": 37,
     "discoverer": "Robert Bunsen y Gustav Kirchhoff",
     "uses": "relojes atómicos, detectores de radiación, vidrio especial",
     "price": "90 USD por gramo",
-    "descripción": "El rubidio es un metal blando y plateado que se utiliza principalmente en la fabricación de relojes atómicos y en la detección de radiación. También se utiliza en la producción de vidrio especial y en la investigación científica."
+    "info": "El rubidio es un metal blando y plateado que se utiliza principalmente en la fabricación de relojes atómicos y en la detección de radiación. También se utiliza en la producción de vidrio especial y en la investigación científica."
   },
   "element38": {
     "name": "Estroncio",
-    "numero_atómico": 38,
+    "n": 38,
     "discoverer": "William Cruickshank",
     "uses": "pirotecnia, medicina nuclear, aleaciones",
     "price": "0.5 USD por gramo",
-    "descripción": "El estroncio es un metal plateado que se utiliza principalmente en la producción de fuegos artificiales y en la medicina nuclear para el tratamiento del cáncer. También se utiliza en la producción de aleaciones para mejorar su resistencia y durabilidad."
+    "info": "El estroncio es un metal plateado que se utiliza principalmente en la producción de fuegos artificiales y en la medicina nuclear para el tratamiento del cáncer. También se utiliza en la producción de aleaciones para mejorar su resistencia y durabilidad."
   },
   "element39": {
     "name": "Itrio",
-    "numero_atómico": 39,
+    "n": 39,
     "discoverer": "Johan Gadolin",
     "uses": "imanes, láseres, aleaciones",
     "price": "25 USD por gramo",
-    "descripción": "El itrio es un metal plateado que se utiliza principalmente en la producción de imanes para motores y generadores. También se utiliza en la fabricación de láseres y en la producción de aleaciones para mejorar su resistencia y durabilidad."
+    "info": "El itrio es un metal plateado que se utiliza principalmente en la producción de imanes para motores y generadores. También se utiliza en la fabricación de láseres y en la producción de aleaciones para mejorar su resistencia y durabilidad."
   },
   "element40": {
     "name": "Circonio",
-    "numero_atómico": 40,
+    "n": 40,
     "discoverer": "Martin Heinrich Klaproth",
     "uses": "reactores nucleares, cerámica, joyería",
     "price": "2 USD por gramo",
-    "descripción": "El circonio es un metal plateado que se utiliza en la fabricación de reactores nucleares debido a su capacidad para resistir la corrosión. También se utiliza en la producción de cerámica resistente al desgaste y en la joyería debido a su similitud con el diamante."
+    "info": "El circonio es un metal plateado que se utiliza en la fabricación de reactores nucleares debido a su capacidad para resistir la corrosión. También se utiliza en la producción de cerámica resistente al desgaste y en la joyería debido a su similitud con el diamante."
   },
   "element41": {
     "name": "Niobio",
-    "numero_atómico": 41,
+    "n": 41,
     "discoverer": "Charles Hatchett",
     "uses": "acero inoxidable, superconductores, aleaciones",
     "price": "40 USD por gramo",
-    "descripción": "El niobio es un metal plateado que se utiliza en la producción de acero inoxidable para aumentar su resistencia a la corrosión y mejorar su durabilidad. También se utiliza en la producción de superconductores y aleaciones para mejorar su resistencia y durabilidad."
+    "info": "El niobio es un metal plateado que se utiliza en la producción de acero inoxidable para aumentar su resistencia a la corrosión y mejorar su durabilidad. También se utiliza en la producción de superconductores y aleaciones para mejorar su resistencia y durabilidad."
   },
   "element42": {
     "name": "Molibdeno",
-    "numero_atómico": 42,
+    "n": 42,
     "discoverer": "Carl Wilhelm Scheele",
     "uses": "acero, lubricantes, catalizadores",
     "price": "0.5 USD por gramo",
-    "descripción": "El molibdeno es un metal plateado que se utiliza en la producción de acero para aumentar su resistencia y durabilidad. También se utiliza en la producción de lubricantes y catalizadores para mejorar la eficiencia de los procesos químicos."
+    "info": "El molibdeno es un metal plateado que se utiliza en la producción de acero para aumentar su resistencia y durabilidad. También se utiliza en la producción de lubricantes y catalizadores para mejorar la eficiencia de los procesos químicos."
   },
   "element43": {
     "name": "Tecnecio",
-    "numero_atómico": 43,
+    "n": 43,
     "discoverer": "Emilio Segrè y Carlo Perrier",
     "uses": "medicina nuclear, detección de fugas, investigación científica",
     "price": "10 USD por gramo",
-    "descripción": "El tecnecio es un element radiactivo que se utiliza en la medicina nuclear para la detección de enfermedades y la investigación científica. También se utiliza en la detección de fugas y en la producción de detectores de radiación."
+    "info": "El tecnecio es un element radiactivo que se utiliza en la medicina nuclear para la detección de enfermedades y la investigación científica. También se utiliza en la detección de fugas y en la producción de detectores de radiación."
   },
   "element44": {
     "name": "Rutenio",
-    "numero_atómico": 44,
+    "n": 44,
     "discoverer": "Karl Ernst Claus",
     "uses": "joyería, catalizadores, superconductores",
     "price": "260 USD por gramo",
-    "descripción": "El rutenio es un metal plateado que se utiliza en la joyería debido a su resistencia y durabilidad. También se utiliza en la producción de catalizadores para mejorar la eficiencia de los procesos químicos y en la producción de superconductores."
+    "info": "El rutenio es un metal plateado que se utiliza en la joyería debido a su resistencia y durabilidad. También se utiliza en la producción de catalizadores para mejorar la eficiencia de los procesos químicos y en la producción de superconductores."
   },
   "element45": {
     "name": "Rodio",
@@ -427,7 +427,7 @@
   },
   "element54": {
     "name": "Xenón",
-    "Número atómico": 54,
+    "n": 54,
     "discoverer": "Sir William Ramsay, Morris Travers",
     "uses": "Producción de lámparas de xenón, láseres, lámparas de destellos, cámaras de ionización, y como anestésico.",
     "price": 5.5,
