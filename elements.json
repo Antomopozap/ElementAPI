@@ -831,7 +831,7 @@
     "discoverer": "Equipo conjunto del Instituto de Investigación de Iones Pesados y el Laboratorio Nacional Lawrence Livermore",
     "info": "El rutherfordio es un element químico sintético y altamente inestable. Su forma más estable es el isótopo Rf-267, que tiene una vida media de solo unos pocos segundos. Fue sintetizado por primera vez en 1964 por un equipo de científicos en Dubna, Rusia, y fue nombrado en honor a Ernest Rutherford, uno de los padres de la física nuclear.",
     "uses": "El rutherfordio se utiliza principalmente para la investigación científica.",
-    "price": "No hay información disponible sobre el price del rutherfordio en el mercado."
+    "price": "No hay información disponible sobre el precio del rutherfordio en el mercado."
   },
   "element105": {
     "name": "Dubnio",
@@ -839,7 +839,7 @@
     "discoverer": "Equipo conjunto del Instituto de Investigación Nuclear de Dubna y el Laboratorio Nacional Lawrence Berkeley",
     "info": "El dubnio es un element químico sintético y altamente inestable. Su forma más estable es el isótopo Db-270, que tiene una vida media de solo unos pocos segundos. Fue sintetizado por primera vez en 1967 por un equipo de científicos en Dubna, Rusia, y fue nombrado en honor a la ciudad de Dubna.",
     "uses": "El dubnio se utiliza principalmente para la investigación científica.",
-    "price": "No hay información disponible sobre el price del dubnio en el mercado."
+    "price": "No hay información disponible sobre el precio del dubnio en el mercado."
   },
   "element106": {
     "name": "Seaborgio",
@@ -847,14 +847,14 @@
     "discoverer": "Equipo conjunto del Laboratorio Nacional Lawrence Berkeley y el Instituto de Investigación Nuclear de Dubna",
     "info": "El seaborgio es un element químico sintético y altamente inestable. Su forma más estable es el isótopo Sg-271, que tiene una vida media de solo unos pocos segundos. Fue sintetizado por primera vez en 1974 por un equipo de científicos en Dubna, Rusia, y fue nombrado en honor al químico y físico Glenn T. Seaborg, quien fue uno de los padres de la química nuclear moderna.",
     "uses": "El seaborgio se utiliza principalmente para la investigación científica.",
-    "price": "No hay información disponible sobre el price del seaborgio en el mercado."
+    "price": "No hay información disponible sobre el precio del seaborgio en el mercado."
   },
   "element107": {
     "name": "Bohrio",
     "n": 107,
     "discoverer": "Equipo conjunto del Laboratorio Nacional Lawrence Berkeley y el Instituto de Investigación Nuclear de Dubna",
     "uses": "El bohrio no tiene aplicaciones comerciales conocidas.",
-    "price": "price no disponible",
+    "price": "precio no disponible",
     "info": "El bohrio es un element sintético y radiactivo que pertenece a la serie de los transactínidos en la tabla periódica."
   },
   "element108": {
@@ -862,7 +862,7 @@
     "n": 108,
     "discoverer": "Equipo conjunto del Laboratorio Nacional Lawrence Berkeley y el Instituto de Investigación Nuclear de Dubna",
     "uses": "El hasio no tiene aplicaciones comerciales conocidas.",
-    "price": "price no disponible",
+    "price": "precio no disponible",
     "info": "El hasio es un element sintético y radiactivo que pertenece a la serie de los transactínidos en la tabla periódica."
   },
   "element109": {
@@ -870,7 +870,7 @@
     "n": 109,
     "discoverer": "Equipo conjunto del Laboratorio Nacional Lawrence Berkeley y el Instituto de Investigación Nuclear de Dubna",
     "uses": "El meitnerio no tiene aplicaciones comerciales conocidas.",
-    "price": "price no disponible",
+    "price": "precio no disponible",
     "info": "El meitnerio es un element sintético y radiactivo que pertenece a la serie de los transactínidos en la tabla periódica."
   },
   "element110": {
@@ -878,7 +878,7 @@
     "n": 110,
     "discoverer": "Equipo conjunto del Laboratorio Nacional Lawrence Berkeley y el Instituto de Investigación Nuclear de Dubna",
     "uses": "El darmstadtio no tiene aplicaciones comerciales conocidas.",
-    "price": "price no disponible",
+    "price": "precio no disponible",
     "info": "El darmstadtio es un element sintético y radiactivo que pertenece a la serie de los transactínidos en la tabla periódica."
   },
   "element111": {
@@ -886,7 +886,7 @@
     "n": 111,
     "discoverer": "Gesellschaft für Schwerionenforschung",
     "uses": "No tiene aplicaciones conocidas",
-    "price": "price del Roentgenio es desconocido",
+    "price": "precio del Roentgenio es desconocido",
     "info": "El Roentgenio es un element químico sintético radiactivo, perteneciente a la serie química de los metales de transición. Fue descubierto en Alemania en 1994."
   },
   "element112": {
@@ -894,7 +894,7 @@
     "n": 112,
     "discoverer": "Gesellschaft für Schwerionenforschung",
     "uses": "No tiene aplicaciones conocidas",
-    "price": "price del Copernicio es desconocido",
+    "price": "precio del Copernicio es desconocido",
     "info": "El Copernicio es un element químico sintético radiactivo, perteneciente a la serie química de los metales de transición. Fue descubierto en Alemania en 1996."
   },
   "element113": {
@@ -902,7 +902,7 @@
     "n": 113,
     "discoverer": "Japón",
     "uses": "No tiene aplicaciones conocidas",
-    "price": "price del Nihonio es desconocido",
+    "price": "precio del Nihonio es desconocido",
     "info": "El Nihonio es un element químico sintético radiactivo, perteneciente a la serie química de los metales de transición. Fue descubierto en Japón en 2004."
   },
   "element114": {
@@ -910,7 +910,7 @@
     "n": 114,
     "discoverer": "Instituto Conjunto de Investigación Nuclear",
     "uses": "No tiene aplicaciones conocidas",
-    "price": "price del Flerovio es desconocido",
+    "price": "precio del Flerovio es desconocido",
     "info": "El Flerovio es un element químico sintético radiactivo, perteneciente a la serie química de los metales de transición. Fue descubierto en Rusia en 1998."
   },
   "element115": {
@@ -918,7 +918,7 @@
     "n": 115,
     "discoverer": "Equipo conjunto del Instituto de Investigación Nuclear de Dubna y el Laboratorio Nacional Lawrence Livermore",
     "uses": "El moscovio se ha sintetizado solo en cantidades muy pequeñas y no tiene uses prácticos conocidos.",
-    "price": "price no disponible",
+    "price": "precio no disponible",
     "info": "El moscovio es un element sintético y radiactivo que pertenece a la serie de los superactínidos en la tabla periódica."
   },
   "element116": {
@@ -926,7 +926,7 @@
     "n": 116,
     "discoverer": "Equipo conjunto del Instituto de Investigación Nuclear de Dubna y el Laboratorio Nacional Lawrence Livermore",
     "uses": "El livermorio se ha sintetizado solo en cantidades muy pequeñas y no tiene uses prácticos conocidos.",
-    "price": "price no disponible",
+    "price": "precio no disponible",
     "info": "El livermorio es un element sintético y radiactivo que pertenece a la serie de los superactínidos en la tabla periódica."
   },
   "element117": {
@@ -934,7 +934,7 @@
     "n": 117,
     "discoverer": "Equipo conjunto del Instituto de Investigación Nuclear de Dubna y el Laboratorio Nacional Lawrence Livermore",
     "uses": "El tennesso se ha sintetizado solo en cantidades muy pequeñas y no tiene uses prácticos conocidos.",
-    "price": "price no disponible",
+    "price": "precio no disponible",
     "info": "El tennesso es un element sintético y radiactivo que pertenece a la serie de los superactínidos en la tabla periódica."
   },
   "element118": {
@@ -942,7 +942,7 @@
     "n": 118,
     "discoverer": "Equipo conjunto del Instituto de Investigación Nuclear de Dubna y el Laboratorio Nacional Lawrence Livermore",
     "uses": "El oganessón se ha sintetizado solo en cantidades muy pequeñas y no tiene uses prácticos conocidos.",
-    "price": "price no disponible",
+    "price": "precio no disponible",
     "info": "El oganessón es un element sintético y radiactivo que pertenece a la serie de los superactínidos en la tabla periódica."
   }
 }
